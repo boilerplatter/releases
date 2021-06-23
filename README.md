@@ -3,7 +3,11 @@
 This repository is used to publicly release packages and binaries from Platter's closed-source codebases. Check out the
 `Releases` in the sidebar to see what's available!
 
-## Instructions
+## Easy mode installation
+
+<https://docs.platter.dev/cli>
+
+## Hard mode installation
 
 1. Download the latest Platter CLI binary for your platform: <a href="https://github.com/boilerplatter/releases/releases/latest" target="_blank">latest release download page</a>
 3. Rename it to `platter`:
